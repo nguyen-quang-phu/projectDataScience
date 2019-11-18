@@ -8,7 +8,7 @@
     * Web thu thập dữ liệu: https://www.luxstay.com/
     * Trả lời được câu hỏi thì có lợi ích: đưa ra dự đoán giá cho một chỗ ở mới từ đó có thể lựa chọn, đánh giá xem chỗ ở mới giá có phù hợp không, xem xét có nên thuê hay không (đối với người thuê), xem xét giá người chủ nhà đề ra có hợp lý không để xem xét đưa vào chuỗi kinh doanh (đối với người chủ)
     * Nguồn gốc câu hỏi: cảm hứng lấy từ chương trình Shark tank Việt Nam
-    * Thu thập dữ liệu: parse HTML.
+    * Thu thập dữ liệu: dùng web API.
     * Dữ liệu hợp pháp: Đã kiểm tra file robots.txt trên trang: https://www.luxstay.com/robots.txt
     * Dữ liệu gồm ? dòng, ? cột.
     * Ý nghĩa từng cột: ?
