@@ -20,7 +20,9 @@
         * Tìm hiểu về web API của luxstay tại: https://docs.luxstay.com/overview/
         * Tuy luxstay cung cấp đầy đủ API để lấy dữ liệu nhưng phải có liên kết với luxstay để cung cấp account. Vì vậy phải parse HTML.
         * Lấy trước các thông tin chung về chỗ ở gồm các thông tin: loại nhà, tên nhà, các loại phòng, giá, vị trí, số đánh giá của các địa điểm như Đà Lạt, Hà Nội, HCM, Vũng Tàu, Nha Trang, Quảng Ninh
-    
+    * 30/11/2019:
+        * Lấy các thông tin chi tiết ở từng chỗ ở: diện tích, tiện ích.
+        * Lúc lấy được lúc không được :(s
 
 * Quá trình thực hiện:
     * 13/11/2019- 16/11/2019: Tìm kiếm ý tưởng và dữ liệu.
