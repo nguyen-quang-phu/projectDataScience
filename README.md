@@ -30,6 +30,17 @@
     ![Imgur](https://i.imgur.com/Uy1hQ2c.png)
     ![Imgur](https://i.imgur.com/xM0R25u.png)
 
+*   Thông tin dữ liệu sau khi thu thập:
+<pre>
+    * Link          : 7507 non-null object  
+    * Tên           : 7489 non-null object
+    * Loại nhà      : 7491 non-null object
+    * Diện tích     : 7368 non-null object
+    * Các loại phòng: 7489 non-null object
+    * Giá           : 7488 non-null object
+    * Vị trí        : 7487 non-null object
+    * Tiện ích      : 7373 non-null object
+</pre>
 * Quá trình thu thập dữ liệu:
     * 19/11/2019:
         * Tìm hiểu về web API của luxstay tại: https://docs.luxstay.com/overview/
@@ -41,11 +52,17 @@
     * 1/12/2019:
         * Lấy tất cả các phần thông tin còn lại
         * Trộn các file nhỏ lại thành 1 file chung
-
+    * 6/12/2019:
+        * Chạy lại các đoạn code lấy dữ liệu với hi vọng giảm được số dòng bị null.
+        * Bổ sung một số đoạn lấy dữ liệu với hi vọng giảm được số dòng bị null.
 * Quá trình tiền xử lý dữ liệu:
+    * 6/12/2019:
+        * Đặt lại tên cột: "link", "name", "type", "area", "room_types", "price", "location" "other"
+        * Chỉnh sửa dữ liệu vài thuộc tính
+        * Xử lý giá trị thiếu vài thuộc tính
 
 * Quá trình thực hiện:
     * 13/11/2019- 16/11/2019: Tìm kiếm ý tưởng và dữ liệu.
     * 17/11/2019- 18/11/2019: Thảo luận và thống nhất đề tài.
-    * 19/11/2019- 2/12/2019 : Thu thập dữ liệu.
-    * 
+    * 19/11/2019- 06/12/2019: Thu thập dữ liệu.
+    * 06/12/2019- ?         : Tiền xử lý dữ liệu
