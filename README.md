@@ -55,11 +55,14 @@
     * 6/12/2019:
         * Chạy lại các đoạn code lấy dữ liệu với hi vọng giảm được số dòng bị null.
         * Bổ sung một số đoạn lấy dữ liệu với hi vọng giảm được số dòng bị null.
+    * 20/12/2019-21/12/2019:
+        * Lấy giá cuối tuần sau khi được góp ý.
 * Quá trình tiền xử lý dữ liệu:
     * 6/12/2019:
         * Đặt lại tên cột: "link", "name", "type", "area", "room_types", "price", "location" "other"
         * Chỉnh sửa dữ liệu vài thuộc tính
         * Xử lý giá trị thiếu vài thuộc tính
+
 
 * Quá trình thực hiện:
     * 13/11/2019- 16/11/2019: Tìm kiếm ý tưởng và dữ liệu.
