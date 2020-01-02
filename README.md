@@ -62,7 +62,10 @@
         * Đặt lại tên cột: "link", "name", "type", "area", "room_types", "price", "location" "other"
         * Chỉnh sửa dữ liệu vài thuộc tính
         * Xử lý giá trị thiếu vài thuộc tính
-
+    * 1/1/2020:
+        * Chuẩn hóa file về dạng có 1 output.
+    * 2/1/2020:
+        * Chuyển kiểu dữ liệu của mỗi cột về đúng dạng của nó.
 
 * Quá trình thực hiện:
     * 13/11/2019- 16/11/2019: Tìm kiếm ý tưởng và dữ liệu.
