@@ -66,10 +66,12 @@
         * Chuẩn hóa file về dạng có 1 output.
     * 2/1/2020:
         * Chuyển kiểu dữ liệu của mỗi cột về đúng dạng của nó.
+    * 5/1/2020:
+        * Điền giá trị thiếu, chuyển các kiểu dữ liệu về dạng số, chuẩn hóa dữ liệu.
 
 * Quá trình thực hiện:
     * 13/11/2019- 16/11/2019: Tìm kiếm ý tưởng và dữ liệu.
     * 17/11/2019- 18/11/2019: Thảo luận và thống nhất đề tài.
     * 19/11/2019- 06/12/2019: Thu thập dữ liệu.
-    * 06/12/2019- 13/12/2019: Tiền xử lý dữ liệu.
-    * 02/01/2020- 09/01/2020: Thử các siêu tham số và tìm mô hình tốt nhất trong thời gian cho phép.
+    * 06/12/2019- 05/01/2029: Tiền xử lý dữ liệu.
+    * 05/01/2020- 08/01/2020: Thử các siêu tham số và tìm mô hình tốt nhất trong thời gian cho phép.
