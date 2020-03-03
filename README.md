@@ -71,4 +71,5 @@
     * 13/11/2019- 16/11/2019: Tìm kiếm ý tưởng và dữ liệu.
     * 17/11/2019- 18/11/2019: Thảo luận và thống nhất đề tài.
     * 19/11/2019- 06/12/2019: Thu thập dữ liệu.
-    * 06/12/2019- ?         : Tiền xử lý dữ liệu
+    * 06/12/2019- 13/12/2019: Tiền xử lý dữ liệu.
+    * 02/01/2020- 09/01/2020: Thử các siêu tham số và tìm mô hình tốt nhất trong thời gian cho phép.
